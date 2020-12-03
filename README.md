@@ -1,6 +1,6 @@
 # Banco_loja_vestuario
 
-Considere o seguinte cenário:
+Considerando o seguinte cenário:
 
 Uma empresa do ramo de vestuário deseja um sistema para gerenciar seu negócio.
 
